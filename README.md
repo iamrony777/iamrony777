@@ -1,5 +1,6 @@
 ![Metrics](/github-metrics.svg) 
 ![Wakatime](/wakatime.svg)
+![Yotube](/music.svg)
 
 ---
 <div align="center">
