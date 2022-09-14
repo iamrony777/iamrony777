@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, activity, repositories
           config_timezone: Asia/Calcutta
-          config_display: large
+          config_display: columns
           plugin_lines: yes
           clean_workflows: success
 
@@ -32,12 +32,14 @@ jobs:
           filename: wakatime.svg
           plugin_wakatime: yes
           plugin_wakatime_url: https://wakatime.pi-home.tk
-          plugin_wakatime_languages_ignored: Other
+          plugin_wakatime_user: RONY
+          plugin_wakatime_languages_ignored: Other, unknown
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
-          config_timezone: Asia/Calcutta
-          config_display: large
+          # config_timezone: Asia/Calcutta
+          config_display: columns
+          debug: yes
               
       - name: YoutubeMusic
         uses: lowlighter/metrics@latest
@@ -53,5 +55,5 @@ jobs:
           plugin_music_limit: 1
           plugin_music_top_type: tracks
           config_timezone: Asia/Calcutta
-          config_display: large
+          config_display: columns
 
