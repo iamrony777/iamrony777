@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, activity, repositories
           config_timezone: Asia/Calcutta
-          config_display: columns
+          config_display: large
           plugin_lines: yes
           clean_workflows: success
 
@@ -38,7 +38,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           # config_timezone: Asia/Calcutta
-          config_display: columns
+          config_display: large
           debug: yes
               
       - name: YoutubeMusic
@@ -55,5 +55,6 @@ jobs:
           plugin_music_limit: 1
           plugin_music_top_type: tracks
           config_timezone: Asia/Calcutta
-          config_display: columns
+          config_display: large
+          debug: yes
 
