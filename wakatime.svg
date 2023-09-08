@@ -61,18 +61,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">my-whatsapp-bot</span>
-                                <div class="bar" style="width: 41.68%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">52%</span>
+                                <div class="bar" style="width: 42.576%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">53%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">javinfo-api-ts</span>
-                                <div class="bar" style="width: 28.016000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">35%</span>
+                                <div class="bar" style="width: 28.872000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">instagram-private-api</span>
-                                <div class="bar" style="width: 10.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
+                                <span class="name">download-hub</span>
+                                <div class="bar" style="width: 8.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                         </div>
                     </section>
@@ -81,28 +81,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 60.864000000000004%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">76%</span>
+                                <div class="bar" style="width: 55.016%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">69%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 9.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 10.751999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">INI</span>
-                                <div class="bar" style="width: 2.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 2.7039999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Docker</span>
-                                <div class="bar" style="width: 2.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 1.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <span class="name">TSQL</span>
+                                <div class="bar" style="width: 2.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
