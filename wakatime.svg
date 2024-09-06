@@ -61,28 +61,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">paul.dragos-emag.generator</span>
-                                <div class="bar" style="width: 31.768%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
+                                <div class="bar" style="width: 33.68000000000001%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">42%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">google-sheet-importer</span>
-                                <div class="bar" style="width: 13.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.600000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">marc.m-report.generator</span>
-                                <div class="bar" style="width: 6.4639999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">screenapi</span>
-                                <div class="bar" style="width: 4.5200000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 7.031999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">MongoDB-To-Google-Sheet</span>
-                                <div class="bar" style="width: 4.311999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.343999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">screenapi</span>
+                                <div class="bar" style="width: 2.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
@@ -91,27 +91,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 57.896%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">72%</span>
+                                <div class="bar" style="width: 59.888000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 8.120000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.392000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 5.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 1.2640000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 4.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Text</span>
-                                <div class="bar" style="width: 1.2560000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 1.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
