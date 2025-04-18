@@ -28,7 +28,7 @@ jobs:
           base: ""
           filename: wakatime.svg
           plugin_wakatime: yes
-          plugin_wakatime_url: https://wakatime.rony.in.eu.org
+          plugin_wakatime_url: https://wakapi.apps.ffstudios.io
           plugin_wakatime_languages_ignored: Other, unknown
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
