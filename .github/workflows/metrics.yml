@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: iamrony777
-          template: classic
+          template: terminal
           base: header, activity, repositories
           config_timezone: Asia/Calcutta
           config_display: large
